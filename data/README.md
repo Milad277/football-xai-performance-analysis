@@ -52,3 +52,16 @@ text per_match_features.csv
 ## Note
 
 The raw dataset, generated SQLite database files, and processed CSV files are not included in this repository because they may be large. Users should download the dataset separately from the original GitHub repository and place the files in the correct folder
+
+## Processed Dataset
+
+The full processed dataset is not included in this repository because of its large file size.
+
+To reproduce the processed dataset, users should:
+
+1. Download the raw Wyscout soccer match event dataset.
+2. Place the JSON files in `data/raw/`.
+3. Run the SQL and Python feature engineering pipeline.
+4. Save the generated outputs in `data/processed/`.
+
+A small sample dataset may be added for demonstration purposes.
