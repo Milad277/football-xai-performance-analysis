@@ -1,0 +1,101 @@
+﻿wyId,firstName,middleName,lastName,shortName,birthDate,height,weight,foot,currentTeamId,currentNationalTeamId,role_code2,role_code3,role_name,birthArea_name,passportArea_name
+12,Kenneth Josiah,,Omeruo,K. Omeruo,1993-10-17,185,74,right,712,16823,DF,DEF,Defender,Nigeria,Nigeria
+33,Jasper,,Cillessen,J. Cillessen,1989-04-22,185,83,right,676,664,GK,GKP,Goalkeeper,Netherlands,Netherlands
+36,Toby,,Alderweireld,T. Alderweireld,1989-03-02,187,91,right,1624,5629,DF,DEF,Defender,Belgium,Belgium
+38,Daley,,Blind,D. Blind,1990-03-09,180,72,left,9,664,DF,DEF,Defender,Netherlands,Netherlands
+45,Gregory,,van der Wiel,G. van der Wiel,1988-02-03,183,69,right,14995,null,DF,DEF,Defender,Netherlands,Cura\u00e7ao
+48,Jan,,Vertonghen,J. Vertonghen,1987-04-24,189,88,left,1624,5629,DF,DEF,Defender,Belgium,Belgium
+54,Christian ,,Dannemann Eriksen,C. Eriksen,1992-02-14,180,76,right,1624,7712,MD,MID,Midfielder,Denmark,Denmark
+56,Davy,,Klaassen,D. Klaassen,1993-02-21,179,70,right,2443,null,MD,MID,Midfielder,Netherlands,Netherlands
+66,Kolbeinn,,Sig\u00fe\u00f3rsson,K. Sig\u00fe\u00f3rsson,1990-03-14,186,84,right,3770,null,FW,FWD,Forward,Iceland,Iceland
+71,Niki,,M\u00e4enp\u00e4\u00e4,N. M\u00e4enp\u00e4\u00e4,1985-01-23,190,85,right,1655,null,GK,GKP,Goalkeeper,Finland,Finland
+74,Ragnar,,Klavan,R. Klavan,1985-10-30,187,78,left,3173,null,DF,DEF,Defender,Estonia,Estonia
+77,Niklas,,Moisander,N. Moisander,1985-09-29,183,75,left,2443,4849,DF,DEF,Defender,Finland,Finland
+91,Charlison,,Benschop,C. Benschop,1989-08-21,191,91,right,2455,18138,FW,FWD,Forward,Cura\u00e7ao,Cura\u00e7ao
+93,Johann ,,Berg Gu\u00f0munds\u00adson,J. Gu\u00f0munds\u00adson,1990-10-27,186,77,left,1646,7839,MD,MID,Midfielder,Iceland,Iceland
+97,Andreas,,Isaksson,A. Isaksson,1981-10-03,196,77,right,6713,null,GK,GKP,Goalkeeper,Sweden,Sweden
+99,Przemys\u0142aw,,Tyto\u0144,P. Tyto\u0144,1987-01-04,194,83,right,677,null,GK,GKP,Goalkeeper,Poland,Poland
+102,Marcelo Ant\u00f4nio,,Guedes Filho,Marcelo,1987-05-20,191,85,right,3766,null,DF,DEF,Defender,Brazil,Brazil
+107,Erik,,Pieters,E. Pieters,1988-08-07,182,86,left,1639,null,DF,DEF,Defender,Netherlands,Netherlands
+110,Jetro,,Willems,J. Willems,1994-03-30,169,65,left,2462,null,DF,DEF,Defender,Netherlands,Cura\u00e7ao
+114,Kevin,,Strootman,K. Strootman,1990-02-13,186,78,left,3158,null,MD,MID,Midfielder,Netherlands,Netherlands
+116,Georginio,,Wijnaldum,G. Wijnaldum,1990-11-11,175,74,right,1612,664,MD,MID,Midfielder,Netherlands,Suriname
+118,Memphis,,Depay,M. Depay,1994-02-13,176,78,right,3766,664,FW,FWD,Forward,Netherlands,Ghana
+120,J\u00fcrgen,,Locadia,J. Locadia,1993-11-07,185,78,right,1651,null,FW,FWD,Forward,Netherlands,Cura\u00e7ao
+122,Dries,,Mertens,D. Mertens,1987-05-06,169,61,right,3187,5629,FW,FWD,Forward,Belgium,Belgium
+123,Ola,,Toivonen,O. Toivonen,1986-07-03,192,78,right,3780,7047,FW,FWD,Forward,Sweden,Sweden
+128,Erwin,,Mulder,E. Mulder,1989-03-03,193,88,right,10531,null,GK,GKP,Goalkeeper,Netherlands,Netherlands
+130,Stefan,,de Vrij,S. de Vrij,1992-02-05,189,78,right,3162,null,DF,DEF,Defender,Netherlands,Netherlands
+132,Terence,,Kongolo,T. Kongolo,1994-02-14,188,70,left,1673,null,DF,DEF,Defender,Netherlands,Congo DR
+134,Bruno,,Martins Indi,B. Martins Indi,1992-02-08,185,80,left,1639,null,DF,DEF,Defender,Portugal,Netherlands
+142,Karim,,El Ahmadi Al Aroos,K. El Ahmadi,1985-01-27,179,78,right,16469,16216,MD,MID,Midfielder,Netherlands,Morocco
+151,John,,Guidetti,J. Guidetti,1992-04-15,185,79,right,696,7047,FW,FWD,Forward,Sweden,Sweden
+159,Jeffrey,,Gouweleeuw,J. Gouweleeuw,1991-07-10,188,78,right,2481,null,DF,DEF,Defender,Netherlands,Netherlands
+160,Daryl,,Janmaat,D. Janmaat,1989-07-22,185,80,right,1644,null,DF,DEF,Defender,Netherlands,Netherlands
+173,Rajiv,,van La Parra,R. van La Parra,1991-06-04,181,72,right,1673,null,MD,MID,Midfielder,Netherlands,Suriname
+174,Filip,,\u0110uri\u010di\u0107,F. \u0110uri\u010di\u0107,1992-01-30,181,72,right,3219,null,MD,MID,Midfielder,Serbia,Serbia
+179,Luciano,,Narsingh,L. Narsingh,1990-09-13,175,75,right,10531,null,MD,MID,Midfielder,Netherlands,Suriname
+192,Jago\u0161,,Vukovi\u0107,J. Vukovi\u0107,1988-06-10,195,93,left,3194,null,DF,DEF,Defender,Serbia,Serbia
+254,Roberto Jos\u00e9,,Rosales Altuve,R. Rosales,1988-11-20,175,71,right,683,null,DF,DEF,Defender,Venezuela,Venezuela
+261,Nacer,,Chadli,N. Chadli,1989-08-02,187,80,right,1627,5629,MD,MID,Midfielder,Belgium,Morocco
+262,Leroy,,Fer,L. Fer,1990-01-05,188,79,right,10531,null,MD,MID,Midfielder,Netherlands,Cura\u00e7ao
+284,Mike,,van der Hoorn,M. van der Hoorn,1992-10-15,190,81,right,10531,null,DF,DEF,Defender,Netherlands,Netherlands
+340,Rhu-endly,,Martina,Cuco Martina,1989-09-25,185,77,right,1639,18138,DF,DEF,Defender,Netherlands,Cura\u00e7ao
+354,Kriszti\u00e1n,,N\u00e9meth,K. N\u00e9meth,1989-01-05,180,74,right,7849,null,FW,FWD,Forward,Hungary,Hungary
+370,Virgil,,van Dijk,V. van Dijk,1991-07-08,193,92,right,1612,664,DF,DEF,Defender,Netherlands,Netherlands
+382,Hyun-Jun,,Suk,Suk Hyun-Jun,1991-06-29,190,82,right,3795,null,FW,FWD,Forward,Korea Republic,Korea Republic
+383,Du\u0161an,,Tadi\u0107,D. Tadi\u0107,1988-11-20,181,76,left,9,17322,MD,MID,Midfielder,Serbia,Serbia
+394,Bram,,Nuytinck,B. Nuytinck,1990-05-04,190,80,left,3163,null,DF,DEF,Defender,Netherlands,Netherlands
+405,Lasse,,Sch\u00f6ne,L. Sch\u00f6ne,1986-05-27,177,78,right,9,7712,MD,MID,Midfielder,Denmark,Denmark
+454,Patrick ,,van Aanholt,P. van Aanholt,1990-08-29,175,67,left,1628,664,DF,DEF,Defender,Netherlands,Cura\u00e7ao
+466,Davy,,Pr\u00f6pper,D. Pr\u00f6pper,1991-09-02,185,72,right,1651,null,MD,MID,Midfielder,Netherlands,Netherlands
+471,Wilfried Guemiand,,Bony,W. Bony,1988-12-10,182,90,right,10531,null,FW,FWD,Forward,C\u00f4te d'Ivoire,C\u00f4te d'Ivoire
+625,Marten,,de Roon,M. de Roon,1991-03-29,185,76,right,3172,null,MD,MID,Midfielder,Netherlands,Netherlands
+658,Kristiano Samuel,,Armenteros Nunez Mendoza Jansson,S. Armenteros,1990-05-27,181,80,left,8113,null,FW,FWD,Forward,Sweden,Cuba
+703,Maya,,Yoshida,M. Yoshida,1988-08-24,189,78,right,1619,12913,DF,DEF,Defender,Japan,Japan
+786,R\u00f3bert,,Maz\u00e1\u0148,R. Maz\u00e1\u0148,1994-02-09,180,75,left,692,14496,DF,DEF,Defender,Slovakia,Slovakia
+1712,Kenny,,Tete,K. Tete,1995-10-09,180,71,right,3766,664,DF,DEF,Defender,Netherlands,Ghana
+1722,Viktor,,Fischer,V. Fischer,1994-06-09,180,71,right,7452,7712,FW,FWD,Forward,Denmark,Denmark
+1729,Riechedly,,Bazoer,R. Bazoer,1996-10-12,184,74,right,2451,670,MD,MID,Midfielder,Netherlands,Cura\u00e7ao
+1735,Hj\u00f6rtur,,Hermannsson,H. Hermannsson,1995-02-08,189,81,right,7453,7839,DF,DEF,Defender,Iceland,Iceland
+1751,Oussama,,Tannane,O. Tannane,1994-03-23,177,80,left,3782,null,FW,FWD,Forward,Netherlands,Morocco
+3267,Vicente,,Guaita Panadero,Guaita,1987-01-10,190,81,right,698,null,GK,GKP,Goalkeeper,Spain,Spain
+3269,Jordi,,Alba Ramos,Jordi Alba,1989-03-21,170,68,left,676,1598,DF,DEF,Defender,Spain,Spain
+3270,Antonio,,Barrag\u00e1n Fern\u00e1ndez,Barrag\u00e1n,1987-06-12,183,76,right,684,null,DF,DEF,Defender,Spain,Spain
+3276,Adil,,Rami,A. Rami,1985-12-27,190,90,right,3771,4418,DF,DEF,Defender,France,Morocco
+3277,V\u00edctor,,Ru\u00edz Torre,V\u00edctor Ru\u00edz,1989-01-25,185,78,left,682,null,DF,DEF,Defender,Spain,Spain
+3278,Bruno,,Saltor Grau,Bruno Saltor,1980-10-01,181,75,right,1651,null,DF,DEF,Defender,Spain,Spain
+3280,\u00c9ver Maximiliano David,,Banega,\u00c9. Banega,1988-06-29,174,71,right,680,12274,MD,MID,Midfielder,Argentina,Spain
+3281,Juan,,Bernat Velasco,Juan Bernat,1993-03-01,170,67,left,2444,null,DF,DEF,Defender,Spain,Spain
+3282,Sergio,,Canales Madrazo,Canales,1991-02-16,180,74,left,687,null,MD,MID,Midfielder,Spain,Spain
+3286,Daniel,,Parejo Mu\u00f1oz,Dani Parejo,1989-04-16,182,74,right,674,null,MD,MID,Midfielder,Spain,Spain
+3287,Cristian,,Portugu\u00e9s Manzanera,Portu,1992-05-21,178,75,right,756,null,MD,MID,Midfielder,Spain,Spain
+3289,Mehmet,,Topal,M. Topal,1986-03-03,187,82,right,4487,null,MD,MID,Midfielder,Turkey,Turkey
+3290,Aritz,,Aduriz Zubeldia,Aduriz,1981-02-11,182,78,right,678,null,FW,FWD,Forward,Spain,Spain
+3291,Francisco,,Alc\u00e1cer Garc\u00eda,Paco Alc\u00e1cer,1993-08-30,175,71,right,676,null,FW,FWD,Forward,Spain,Spain
+3293,Pablo Daniel,,Piatti,P. Piatti,1989-03-31,163,63,left,691,null,FW,FWD,Forward,Argentina,Italy
+3296,Antonio,,Ad\u00e1n Garrido,Ad\u00e1n,1987-05-13,191,88,left,684,null,GK,GKP,Goalkeeper,Spain,Spain
+3297,Iker,,Casillas Fern\u00e1ndez,Casillas,1981-05-20,185,84,left,9606,null,GK,GKP,Goalkeeper,Spain,Spain
+3299,Fernando,,Pacheco Flores,Fernando Pacheco,1992-05-18,186,81,left,696,null,GK,GKP,Goalkeeper,Spain,Spain
+3300,Ra\u00fal,,Albiol Tortajada,Albiol,1985-09-04,190,82,right,3187,null,DF,DEF,Defender,Spain,Spain
+3304,Jos\u00e9 Ignacio,,Fern\u00e1ndez Iglesias,Nacho,1990-01-18,180,76,right,675,1598,DF,DEF,Defender,Spain,Spain
+3305,Kl\u00e9per,,Laveran Lima Ferreira,Pepe,1983-02-26,188,81,right,4489,9905,DF,DEF,Defender,Brazil,Portugal
+3306,Sergio,,Ramos Garc\u00eda,Sergio Ramos,1986-03-30,184,82,right,675,1598,DF,DEF,Defender,Spain,Spain
+3307,Ricardo Alberto,,Silveira de Carvalho,Ricardo Carvalho,1978-05-18,183,78,right,,null,DF,DEF,Defender,Portugal,Portugal
+3308,Pedro Filipe,,Teod\u00f3sio Mendes,Pedro Mendes,1990-10-01,186,78,right,3787,null,DF,DEF,Defender,Switzerland,Portugal
+3309,Rapha\u00ebl,,Varane,R. Varane,1993-04-25,191,81,right,675,4418,DF,DEF,Defender,France,Martinique
+3310,Marcelo,,Vieira da Silva J\u00fanior,Marcelo,1988-05-12,174,80,left,675,6380,DF,DEF,Defender,Brazil,Spain
+3313,Jos\u00e9 Mar\u00eda,,Callej\u00f3n Bueno,Jos\u00e9 Callej\u00f3n,1987-02-11,178,73,right,3187,null,FW,FWD,Forward,Spain,Spain
+3314,\u00c1ngel Fabi\u00e1n,,di Mar\u00eda Hern\u00e1ndez,\u00c1. di Mar\u00eda,1988-02-14,180,75,left,3767,12274,MD,MID,Midfielder,Argentina,Italy
+3315,Lassana,,Diarra,L. Diarra,1985-03-10,173,67,right,3767,null,MD,MID,Midfielder,France,Mali
+3317,Esteban F\u00e9lix,,Granero Molina,Granero,1987-07-02,180,78,right,691,null,MD,MID,Midfielder,Spain,Spain
+3318,Sami,,Khedira,S. Khedira,1987-04-04,189,85,right,3159,3148,MD,MID,Midfielder,Germany,Tunisia
+3319,Mesut,,\u00d6zil,M. \u00d6zil,1988-10-15,180,76,left,1609,3148,MD,MID,Midfielder,Germany,Germany
+3320,Nuri,,\u015eahin,N. \u015eahin,1988-09-05,180,73,left,2447,null,MD,MID,Midfielder,Germany,Turkey
+3321,Karim,,Benzema,K. Benzema,1987-12-19,185,81,right,675,null,FW,FWD,Forward,France,Algeria
+3322,Cristiano Ronaldo,,dos Santos Aveiro,Cristiano Ronaldo,1985-02-05,187,83,right,3159,9905,FW,FWD,Forward,Portugal,Portugal
+3323,Gonzalo Gerardo,,Higua\u00edn,G. Higua\u00edn,1987-12-10,184,82,right,3157,12274,FW,FWD,Forward,France,Argentina
+3324,\u00c1lvaro Borja,,Morata Mart\u00edn,\u00c1lvaro Morata,1992-10-23,189,85,right,1610,1598,FW,FWD,Forward,Spain,Spain
+3325,Juan Francisco,,Moreno Fuertes,Juanfran,1988-09-11,180,69,right,677,null,DF,DEF,Defender,Spain,Spain
+3326,Jes\u00e9,,Rodr\u00edguez Ruiz,Jes\u00e9 Rodr\u00edguez,1993-02-26,178,73,right,3767,null,FW,FWD,Forward,Spain,Spain
+3327,Jos\u00e9 Luis,,Sanmart\u00edn Mato,Joselu,1990-03-27,192,80,right,1613,null,FW,FWD,Forward,Germany,Spain

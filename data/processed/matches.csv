@@ -1,0 +1,101 @@
+﻿matchId,competitionId,seasonId,roundId,gameweek,status,dateutc,date,venue,label,winner,groupName,duration
+1694390,102,9291,4165470,1,Played,2016-06-10 19:00:00,"June 10, 2016 at 9:00:00 PM GMT+2",Stade de France,"France - Romania, 2 - 1",4418,Group A,Regular
+1694391,102,9291,4165470,1,Played,2016-06-11 13:00:00,"June 11, 2016 at 3:00:00 PM GMT+2",Stade Bollaert-Delelis,"Albania - Switzerland, 0 - 1",6697,Group A,Regular
+1694392,102,9291,4165470,2,Played,2016-06-15 16:00:00,"June 15, 2016 at 6:00:00 PM GMT+2",Parc des Princes,"Romania - Switzerland, 1 - 1",0,Group A,Regular
+1694393,102,9291,4165470,2,Played,2016-06-15 19:00:00,"June 15, 2016 at 9:00:00 PM GMT+2",Stade V\u00e9lodrome,"France - Albania, 2 - 0",4418,Group A,Regular
+1694394,102,9291,4165470,3,Played,2016-06-19 19:00:00,"June 19, 2016 at 9:00:00 PM GMT+2",Stade Pierre-Mauroy,"Switzerland - France, 0 - 0",0,Group A,Regular
+1694395,102,9291,4165470,3,Played,2016-06-19 19:00:00,"June 19, 2016 at 9:00:00 PM GMT+2",Groupama Stadium,"Romania - Albania, 0 - 1",8731,Group A,Regular
+1694396,102,9291,4165470,1,Played,2016-06-11 16:00:00,"June 11, 2016 at 6:00:00 PM GMT+2",Stade Matmut-Atlantique,"Wales - Slovakia, 2 - 1",10682,Group B,Regular
+1694397,102,9291,4165470,1,Played,2016-06-11 19:00:00,"June 11, 2016 at 9:00:00 PM GMT+2",Stade V\u00e9lodrome,"England - Russia, 1 - 1",0,Group B,Regular
+1694398,102,9291,4165470,2,Played,2016-06-15 13:00:00,"June 15, 2016 at 3:00:00 PM GMT+2",Stade Pierre-Mauroy,"Russia - Slovakia, 1 - 2",14496,Group B,Regular
+1694399,102,9291,4165470,2,Played,2016-06-16 13:00:00,"June 16, 2016 at 3:00:00 PM GMT+2",Stade Bollaert-Delelis,"England - Wales, 2 - 1",2413,Group B,Regular
+1694400,102,9291,4165470,3,Played,2016-06-20 19:00:00,"June 20, 2016 at 9:00:00 PM GMT+2",Stade Geoffroy-Guichard,"Slovakia - England, 0 - 0",0,Group B,Regular
+1694401,102,9291,4165470,3,Played,2016-06-20 19:00:00,"June 20, 2016 at 9:00:00 PM GMT+2",Stadium Municipal,"Russia - Wales, 0 - 3",10682,Group B,Regular
+1694402,102,9291,4165470,1,Played,2016-06-12 16:00:00,"June 12, 2016 at 6:00:00 PM GMT+2",Allianz Riviera,"Poland - Northern Ireland, 1 - 0",13869,Group C,Regular
+1694403,102,9291,4165470,1,Played,2016-06-12 19:00:00,"June 12, 2016 at 9:00:00 PM GMT+2",Stade Pierre-Mauroy,"Germany - Ukraine, 2 - 0",3148,Group C,Regular
+1694404,102,9291,4165470,2,Played,2016-06-16 16:00:00,"June 16, 2016 at 6:00:00 PM GMT+2",Groupama Stadium,"Ukraine - Northern Ireland, 0 - 2",10962,Group C,Regular
+1694405,102,9291,4165470,2,Played,2016-06-16 19:00:00,"June 16, 2016 at 9:00:00 PM GMT+2",Stade de France,"Germany - Poland, 0 - 0",0,Group C,Regular
+1694406,102,9291,4165470,3,Played,2016-06-21 16:00:00,"June 21, 2016 at 6:00:00 PM GMT+2",Stade V\u00e9lodrome,"Ukraine - Poland, 0 - 1",13869,Group C,Regular
+1694407,102,9291,4165470,3,Played,2016-06-21 16:00:00,"June 21, 2016 at 6:00:00 PM GMT+2",Parc des Princes,"Northern Ireland - Germany, 0 - 1",3148,Group C,Regular
+1694408,102,9291,4165470,1,Played,2016-06-12 13:00:00,"June 12, 2016 at 3:00:00 PM GMT+2",Parc des Princes,"Turkey - Croatia, 0 - 1",9598,Group D,Regular
+1694409,102,9291,4165470,1,Played,2016-06-13 13:00:00,"June 13, 2016 at 3:00:00 PM GMT+2",Stadium Municipal,"Spain - Czech Republic, 1 - 0",1598,Group D,Regular
+1694410,102,9291,4165470,2,Played,2016-06-17 16:00:00,"June 17, 2016 at 6:00:00 PM GMT+2",Stade Geoffroy-Guichard,"Czech Republic - Croatia, 2 - 2",0,Group D,Regular
+1694411,102,9291,4165470,2,Played,2016-06-17 19:00:00,"June 17, 2016 at 9:00:00 PM GMT+2",Allianz Riviera,"Spain - Turkey, 3 - 0",1598,Group D,Regular
+1694412,102,9291,4165470,3,Played,2016-06-21 19:00:00,"June 21, 2016 at 9:00:00 PM GMT+2",Stade Matmut-Atlantique,"Croatia - Spain, 2 - 1",9598,Group D,Regular
+1694413,102,9291,4165470,3,Played,2016-06-21 19:00:00,"June 21, 2016 at 9:00:00 PM GMT+2",Stade Bollaert-Delelis,"Czech Republic - Turkey, 0 - 2",4687,Group D,Regular
+1694414,102,9291,4165470,1,Played,2016-06-13 16:00:00,"June 13, 2016 at 6:00:00 PM GMT+2",Stade de France,"Republic of Ireland - Sweden, 1 - 1",0,Group E,Regular
+1694415,102,9291,4165470,1,Played,2016-06-13 19:00:00,"June 13, 2016 at 9:00:00 PM GMT+2",Groupama Stadium,"Belgium - Italy, 0 - 2",3757,Group E,Regular
+1694416,102,9291,4165470,2,Played,2016-06-17 13:00:00,"June 17, 2016 at 3:00:00 PM GMT+2",Stadium Municipal,"Italy - Sweden, 1 - 0",3757,Group E,Regular
+1694417,102,9291,4165470,2,Played,2016-06-18 13:00:00,"June 18, 2016 at 3:00:00 PM GMT+2",Stade Matmut-Atlantique,"Belgium - Republic of Ireland, 3 - 0",5629,Group E,Regular
+1694418,102,9291,4165470,3,Played,2016-06-22 19:00:00,"June 22, 2016 at 9:00:00 PM GMT+2",Stade Pierre-Mauroy,"Italy - Republic of Ireland, 0 - 1",8274,Group E,Regular
+1694419,102,9291,4165470,3,Played,2016-06-22 19:00:00,"June 22, 2016 at 9:00:00 PM GMT+2",Allianz Riviera,"Sweden - Belgium, 0 - 1",5629,Group E,Regular
+1694420,102,9291,4165470,1,Played,2016-06-14 16:00:00,"June 14, 2016 at 6:00:00 PM GMT+2",Stade Matmut-Atlantique,"Austria - Hungary, 0 - 2",10451,Group F,Regular
+1694421,102,9291,4165470,1,Played,2016-06-14 19:00:00,"June 14, 2016 at 9:00:00 PM GMT+2",Stade Geoffroy-Guichard,"Portugal - Iceland, 1 - 1",0,Group F,Regular
+1694422,102,9291,4165470,2,Played,2016-06-18 16:00:00,"June 18, 2016 at 6:00:00 PM GMT+2",Stade V\u00e9lodrome,"Iceland - Hungary, 1 - 1",0,Group F,Regular
+1694423,102,9291,4165470,2,Played,2016-06-18 19:00:00,"June 18, 2016 at 9:00:00 PM GMT+2",Parc des Princes,"Portugal - Austria, 0 - 0",0,Group F,Regular
+1694424,102,9291,4165470,3,Played,2016-06-22 16:00:00,"June 22, 2016 at 6:00:00 PM GMT+2",Groupama Stadium,"Hungary - Portugal, 3 - 3",0,Group F,Regular
+1694425,102,9291,4165470,3,Played,2016-06-22 16:00:00,"June 22, 2016 at 6:00:00 PM GMT+2",Stade de France,"Iceland - Austria, 2 - 1",7839,Group F,Regular
+1694426,102,9291,4165471,0,Played,2016-06-25 13:00:00,"June 25, 2016 at 3:00:00 PM GMT+2",Stade Geoffroy-Guichard,"Switzerland - Poland, 1 - 1 (P)",13869,Group F,Penalties
+1694427,102,9291,4165471,0,Played,2016-06-25 16:00:00,"June 25, 2016 at 6:00:00 PM GMT+2",Parc des Princes,"Wales - Northern Ireland, 1 - 0",10682,Group F,Regular
+1694428,102,9291,4165471,0,Played,2016-06-25 19:00:00,"June 25, 2016 at 9:00:00 PM GMT+2",Stade Bollaert-Delelis,"Croatia - Portugal, 0 - 1 (E)",9905,Group F,ExtraTime
+1694429,102,9291,4165471,0,Played,2016-06-26 13:00:00,"June 26, 2016 at 3:00:00 PM GMT+2",Groupama Stadium,"France - Republic of Ireland, 2 - 1",4418,Group F,Regular
+1694430,102,9291,4165471,0,Played,2016-06-26 16:00:00,"June 26, 2016 at 6:00:00 PM GMT+2",Stade Pierre-Mauroy,"Germany - Slovakia, 3 - 0",3148,Group F,Regular
+1694431,102,9291,4165471,0,Played,2016-06-26 19:00:00,"June 26, 2016 at 9:00:00 PM GMT+2",Stadium Municipal,"Hungary - Belgium, 0 - 4",5629,Group F,Regular
+1694432,102,9291,4165471,0,Played,2016-06-27 16:00:00,"June 27, 2016 at 6:00:00 PM GMT+2",Stade de France,"Italy - Spain, 2 - 0",3757,Group F,Regular
+1694433,102,9291,4165471,0,Played,2016-06-27 19:00:00,"June 27, 2016 at 9:00:00 PM GMT+2",Allianz Riviera,"England - Iceland, 1 - 2",7839,Group F,Regular
+1694434,102,9291,4165472,0,Played,2016-06-30 19:00:00,"June 30, 2016 at 9:00:00 PM GMT+2",Stade V\u00e9lodrome,"Poland - Portugal, 1 - 1 (P)",9905,Group F,Penalties
+1694435,102,9291,4165472,0,Played,2016-07-01 19:00:00,"July 1, 2016 at 9:00:00 PM GMT+2",Stade Pierre-Mauroy,"Wales - Belgium, 3 - 1",10682,Group F,Regular
+1694436,102,9291,4165472,0,Played,2016-07-02 19:00:00,"July 2, 2016 at 9:00:00 PM GMT+2",Stade Matmut-Atlantique,"Germany - Italy, 1 - 1 (P)",3148,Group F,Penalties
+1694437,102,9291,4165472,0,Played,2016-07-03 19:00:00,"July 3, 2016 at 9:00:00 PM GMT+2",Stade de France,"France - Iceland, 5 - 2",4418,Group F,Regular
+1694438,102,9291,4165473,0,Played,2016-07-06 19:00:00,"July 6, 2016 at 9:00:00 PM GMT+2",Groupama Stadium,"Portugal - Wales, 2 - 0",9905,Group F,Regular
+1694439,102,9291,4165473,0,Played,2016-07-07 19:00:00,"July 7, 2016 at 9:00:00 PM GMT+2",Stade V\u00e9lodrome,"Germany - France, 0 - 2",4418,Group F,Regular
+1694440,102,9291,4165474,0,Played,2016-07-10 19:00:00,"July 10, 2016 at 9:00:00 PM GMT+2",Stade de France,"Portugal - France, 1 - 0 (E)",9905,Group F,ExtraTime
+2057954,28,10078,4165363,1,Played,2018-06-14 15:00:00,"June 14, 2018 at 5:00:00 PM GMT+2",Olimpiyskiy stadion Luzhniki,"Russia - Saudi Arabia, 5 - 0",14358,Group A,Regular
+2057955,28,10078,4165363,1,Played,2018-06-15 12:00:00,"June 15, 2018 at 2:00:00 PM GMT+2",Stadion Central'nyj,"Egypt - Uruguay, 0 - 1",15670,Group A,Regular
+2057956,28,10078,4165363,2,Played,2018-06-19 18:00:00,"June 19, 2018 at 8:00:00 PM GMT+2",Stadion Krestovskyi,"Russia - Egypt, 3 - 1",14358,Group A,Regular
+2057957,28,10078,4165363,2,Played,2018-06-20 15:00:00,"June 20, 2018 at 5:00:00 PM GMT+2",Rostov Arena,"Uruguay - Saudi Arabia, 1 - 0",15670,Group A,Regular
+2057958,28,10078,4165363,3,Played,2018-06-25 14:00:00,"June 25, 2018 at 4:00:00 PM GMT+2",Samara Arena,"Uruguay - Russia, 3 - 0",15670,Group A,Regular
+2057959,28,10078,4165363,3,Played,2018-06-25 14:00:00,"June 25, 2018 at 4:00:00 PM GMT+2",Volgograd Arena,"Saudi Arabia - Egypt, 2 - 1",16521,Group A,Regular
+2057960,28,10078,4165363,1,Played,2018-06-15 18:00:00,"June 15, 2018 at 8:00:00 PM GMT+2",Olimpiyskiy Stadion Fisht,"Portugal - Spain, 3 - 3",0,Group B,Regular
+2057961,28,10078,4165363,1,Played,2018-06-15 15:00:00,"June 15, 2018 at 5:00:00 PM GMT+2",Stadion Krestovskyi,"Morocco - Iran, 0 - 1",10840,Group B,Regular
+2057962,28,10078,4165363,2,Played,2018-06-20 12:00:00,"June 20, 2018 at 2:00:00 PM GMT+2",Olimpiyskiy stadion Luzhniki,"Portugal - Morocco, 1 - 0",9905,Group B,Regular
+2057963,28,10078,4165363,2,Played,2018-06-20 18:00:00,"June 20, 2018 at 8:00:00 PM GMT+2",Kazan' Arena,"Iran - Spain, 0 - 1",1598,Group B,Regular
+2057964,28,10078,4165363,3,Played,2018-06-25 18:00:00,"June 25, 2018 at 8:00:00 PM GMT+2",Mordovia Arena,"Iran - Portugal, 1 - 1",0,Group B,Regular
+2057965,28,10078,4165363,3,Played,2018-06-25 18:00:00,"June 25, 2018 at 8:00:00 PM GMT+2",Kaliningrad Stadium,"Spain - Morocco, 2 - 2",0,Group B,Regular
+2057966,28,10078,4165363,1,Played,2018-06-16 10:00:00,"June 16, 2018 at 12:00:00 PM GMT+2",Kazan' Arena,"France - Australia, 2 - 1",4418,Group C,Regular
+2057967,28,10078,4165363,1,Played,2018-06-16 16:00:00,"June 16, 2018 at 6:00:00 PM GMT+2",Mordovia Arena,"Peru - Denmark, 0 - 1",7712,Group C,Regular
+2057968,28,10078,4165363,2,Played,2018-06-21 15:00:00,"June 21, 2018 at 5:00:00 PM GMT+2",Stadion Central'nyj,"France - Peru, 1 - 0",4418,Group C,Regular
+2057969,28,10078,4165363,2,Played,2018-06-21 12:00:00,"June 21, 2018 at 2:00:00 PM GMT+2",Samara Arena,"Denmark - Australia, 1 - 1",0,Group C,Regular
+2057970,28,10078,4165363,3,Played,2018-06-26 14:00:00,"June 26, 2018 at 4:00:00 PM GMT+2",Olimpiyskiy stadion Luzhniki,"Denmark - France, 0 - 0",0,Group C,Regular
+2057971,28,10078,4165363,3,Played,2018-06-26 14:00:00,"June 26, 2018 at 4:00:00 PM GMT+2",Olimpiyskiy Stadion Fisht,"Australia - Peru, 0 - 2",15594,Group C,Regular
+2057972,28,10078,4165363,1,Played,2018-06-16 13:00:00,"June 16, 2018 at 3:00:00 PM GMT+2",Otkrytiye Arena,"Argentina - Iceland, 1 - 1",0,Group D,Regular
+2057973,28,10078,4165363,1,Played,2018-06-16 19:00:00,"June 16, 2018 at 9:00:00 PM GMT+2",Kaliningrad Stadium,"Croatia - Nigeria, 2 - 0",9598,Group D,Regular
+2057974,28,10078,4165363,2,Played,2018-06-21 18:00:00,"June 21, 2018 at 8:00:00 PM GMT+2",Stadion Nizhny Novgorod,"Argentina - Croatia, 0 - 3",9598,Group D,Regular
+2057975,28,10078,4165363,2,Played,2018-06-22 15:00:00,"June 22, 2018 at 5:00:00 PM GMT+2",Volgograd Arena,"Nigeria - Iceland, 2 - 0",16823,Group D,Regular
+2057976,28,10078,4165363,3,Played,2018-06-26 18:00:00,"June 26, 2018 at 8:00:00 PM GMT+2",Stadion Krestovskyi,"Nigeria - Argentina, 1 - 2",12274,Group D,Regular
+2057977,28,10078,4165363,3,Played,2018-06-26 18:00:00,"June 26, 2018 at 8:00:00 PM GMT+2",Rostov Arena,"Iceland - Croatia, 1 - 2",9598,Group D,Regular
+2057978,28,10078,4165363,1,Played,2018-06-17 18:00:00,"June 17, 2018 at 8:00:00 PM GMT+2",Rostov Arena,"Brazil - Switzerland, 1 - 1",0,Group E,Regular
+2057979,28,10078,4165363,1,Played,2018-06-17 12:00:00,"June 17, 2018 at 2:00:00 PM GMT+2",Samara Arena,"Costa Rica - Serbia, 0 - 1",17322,Group E,Regular
+2057980,28,10078,4165363,2,Played,2018-06-22 12:00:00,"June 22, 2018 at 2:00:00 PM GMT+2",Stadion Krestovskyi,"Brazil - Costa Rica, 2 - 0",6380,Group E,Regular
+2057981,28,10078,4165363,2,Played,2018-06-22 18:00:00,"June 22, 2018 at 8:00:00 PM GMT+2",Kaliningrad Stadium,"Serbia - Switzerland, 1 - 2",6697,Group E,Regular
+2057982,28,10078,4165363,3,Played,2018-06-27 18:00:00,"June 27, 2018 at 8:00:00 PM GMT+2",Otkrytiye Arena,"Serbia - Brazil, 0 - 2",6380,Group E,Regular
+2057983,28,10078,4165363,3,Played,2018-06-27 18:00:00,"June 27, 2018 at 8:00:00 PM GMT+2",Stadion Nizhny Novgorod,"Switzerland - Costa Rica, 2 - 2",0,Group E,Regular
+2057984,28,10078,4165363,1,Played,2018-06-17 15:00:00,"June 17, 2018 at 5:00:00 PM GMT+2",Stadion Luzhniki,"Germany - Mexico, 0 - 1",15473,Group F,Regular
+2057985,28,10078,4165363,1,Played,2018-06-18 12:00:00,"June 18, 2018 at 2:00:00 PM GMT+2",Stadion Nizhny Novgorod,"Sweden - Korea Republic, 1 - 0",7047,Group F,Regular
+2057986,28,10078,4165363,2,Played,2018-06-23 18:00:00,"June 23, 2018 at 8:00:00 PM GMT+2",Olimpiyskiy Stadion Fisht,"Germany - Sweden, 2 - 1",3148,Group F,Regular
+2057987,28,10078,4165363,2,Played,2018-06-23 15:00:00,"June 23, 2018 at 5:00:00 PM GMT+2",Rostov Arena,"Korea Republic - Mexico, 1 - 2",15473,Group F,Regular
+2057988,28,10078,4165363,3,Played,2018-06-27 14:00:00,"June 27, 2018 at 4:00:00 PM GMT+2",Kazan' Arena,"Korea Republic - Germany, 2 - 0",14855,Group F,Regular
+2057989,28,10078,4165363,3,Played,2018-06-27 14:00:00,"June 27, 2018 at 4:00:00 PM GMT+2",Stadion Central'nyj,"Mexico - Sweden, 0 - 3",7047,Group F,Regular
+2057990,28,10078,4165363,1,Played,2018-06-18 15:00:00,"June 18, 2018 at 5:00:00 PM GMT+2",Olimpiyskiy Stadion Fisht,"Belgium - Panama, 3 - 0",5629,Group G,Regular
+2057991,28,10078,4165363,1,Played,2018-06-18 18:00:00,"June 18, 2018 at 8:00:00 PM GMT+2",Volgograd Arena,"Tunisia - England, 1 - 2",2413,Group G,Regular
+2057992,28,10078,4165363,2,Played,2018-06-23 12:00:00,"June 23, 2018 at 2:00:00 PM GMT+2",Otkrytiye Arena,"Belgium - Tunisia, 5 - 2",5629,Group G,Regular
+2057993,28,10078,4165363,2,Played,2018-06-24 12:00:00,"June 24, 2018 at 2:00:00 PM GMT+2",Stadion Nizhny Novgorod,"England - Panama, 6 - 1",2413,Group G,Regular
+2057994,28,10078,4165363,3,Played,2018-06-28 18:00:00,"June 28, 2018 at 8:00:00 PM GMT+2",Kaliningrad Stadium,"England - Belgium, 0 - 1",5629,Group G,Regular
+2057995,28,10078,4165363,3,Played,2018-06-28 18:00:00,"June 28, 2018 at 8:00:00 PM GMT+2",Mordovia Arena,"Panama - Tunisia, 1 - 2",16276,Group G,Regular
+2057996,28,10078,4165363,1,Played,2018-06-19 15:00:00,"June 19, 2018 at 5:00:00 PM GMT+2",Otkrytiye Arena,"Poland - Senegal, 1 - 2",19314,Group H,Regular
+2057997,28,10078,4165363,1,Played,2018-06-19 12:00:00,"June 19, 2018 at 2:00:00 PM GMT+2",Mordovia Arena,"Colombia - Japan, 1 - 2",12913,Group H,Regular
+2057998,28,10078,4165363,2,Played,2018-06-24 18:00:00,"June 24, 2018 at 8:00:00 PM GMT+2",Kazan' Arena,"Poland - Colombia, 0 - 3",12430,Group H,Regular
+2057999,28,10078,4165363,2,Played,2018-06-24 15:00:00,"June 24, 2018 at 5:00:00 PM GMT+2",Stadion Central'nyj,"Japan - Senegal, 2 - 2",0,Group H,Regular
+2058000,28,10078,4165363,3,Played,2018-06-28 14:00:00,"June 28, 2018 at 4:00:00 PM GMT+2",Volgograd Arena,"Japan - Poland, 0 - 1",13869,Group H,Regular
+2058001,28,10078,4165363,3,Played,2018-06-28 14:00:00,"June 28, 2018 at 4:00:00 PM GMT+2",Samara Arena,"Senegal - Colombia, 0 - 1",12430,Group H,Regular
+2058002,28,10078,4165364,0,Played,2018-06-30 18:00:00,"June 30, 2018 at 8:00:00 PM GMT+2",Olimpiyskiy Stadion Fisht,"Uruguay - Portugal, 2 - 1",15670,,Regular

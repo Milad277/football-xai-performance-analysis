@@ -1,0 +1,101 @@
+﻿wyId,name,officialName,city,type,area_name,area_alpha3code
+674,Valencia,Valencia Club de F\u00fatbol,Valencia,club,Spain,ESP
+675,Real Madrid,Real Madrid Club de F\u00fatbol,Madrid,club,Spain,ESP
+676,Barcelona,FC Barcelona,Barcelona,club,Spain,ESP
+677,Deportivo La Coru\u00f1a,Real Club Deportivo de La Coru\u00f1a,A Coru\u00f1a,club,Spain,ESP
+678,Athletic Club,Athletic Club Bilbao,Bilbao,club,Spain,ESP
+679,Atl\u00e9tico Madrid,Club Atl\u00e9tico de Madrid,Madrid,club,Spain,ESP
+680,Sevilla,Sevilla FC,Sevilla,club,Spain,ESP
+682,Villarreal,Villarreal Club de F\u00fatbol,Villarreal,club,Spain,ESP
+683,M\u00e1laga,M\u00e1laga Club de F\u00fatbol,Malaga,club,Spain,ESP
+684,Real Betis,Real Betis Balompi\u00e9,Sevilla,club,Spain,ESP
+687,Real Sociedad,Real Sociedad de F\u00fatbol,Donostia-San Sebasti\u00e1n,club,Spain,ESP
+691,Espanyol,Reial Club Deportiu Espanyol,Barcelona,club,Spain,ESP
+692,Celta de Vigo,Real Club Celta de Vigo,Vigo,club,Spain,ESP
+695,Levante,Levante UD,Valencia,club,Spain,ESP
+696,Deportivo Alav\u00e9s,Deportivo Alav\u00e9s,Vitoria-Gasteiz,club,Spain,ESP
+698,Getafe,Getafe Club de F\u00fatbol,Getafe (Madrid),club,Spain,ESP
+701,Eibar,SD Eibar,Eibar,club,Spain,ESP
+712,Legan\u00e9s,CD Legan\u00e9s,Legan\u00e9s,club,Spain,ESP
+714,Las Palmas,UD Las Palmas,Las Palmas de Gran Canaria,club,Spain,ESP
+756,Girona,Girona FC,Girona,club,Spain,ESP
+1598,Spain,Spain,Las Rozas,national,Spain,ESP
+1609,Arsenal,Arsenal FC,London,club,England,XEN
+1610,Chelsea,Chelsea FC,London,club,England,XEN
+1611,Manchester United,Manchester United FC,Manchester,club,England,XEN
+1612,Liverpool,Liverpool FC,Liverpool,club,England,XEN
+1613,Newcastle United,Newcastle United FC,Newcastle upon Tyne,club,England,XEN
+1619,Southampton,Southampton FC,"Southampton, Hampshire",club,England,XEN
+1623,Everton,Everton FC,Liverpool,club,England,XEN
+1624,Tottenham Hotspur,Tottenham Hotspur FC,London,club,England,XEN
+1625,Manchester City,Manchester City FC,Manchester,club,England,XEN
+1627,West Bromwich Albion,West Bromwich Albion FC,West Bromwich,club,England,XEN
+1628,Crystal Palace,Crystal Palace FC,London,club,England,XEN
+1631,Leicester City,Leicester City FC,Leicester,club,England,XEN
+1633,West Ham United,West Ham United FC,London,club,England,XEN
+1639,Stoke City,Stoke City FC,Stoke-on-Trent,club,England,XEN
+1644,Watford,Watford FC,Watford,club,England,XEN
+1646,Burnley,Burnley FC,"Burnley, Lancashire",club,England,XEN
+1651,Brighton & Hove Albion,Brighton & Hove Albion FC,"Brighton, East Sussex",club,England,XEN
+1659,AFC Bournemouth,AFC Bournemouth,"Bournemouth, Dorset",club,England,XEN
+1673,Huddersfield Town,Huddersfield Town FC,"Huddersfield, West Yorkshire",club,England,XEN
+2413,England,England,London,national,England,XEN
+2443,Werder Bremen,SV Werder Bremen,Bremen,club,Germany,DEU
+2444,Bayern M\u00fcnchen,FC Bayern M\u00fcnchen,M\u00fcnchen,club,Germany,DEU
+2445,Stuttgart,VfB Stuttgart 1893,Stuttgart,club,Germany,DEU
+2446,Bayer Leverkusen,TSV Bayer 04 Leverkusen,Leverkusen,club,Germany,DEU
+2447,Borussia Dortmund,BV Borussia 09 Dortmund,Dortmund,club,Germany,DEU
+2449,Schalke 04,FC Schalke 04,Gelsenkirchen,club,Germany,DEU
+2450,Hamburger SV,Hamburger SV,Hamburg,club,Germany,DEU
+2451,Wolfsburg,VfL Wolfsburg,Wolfsburg,club,Germany,DEU
+2453,Freiburg,SC Freiburg,Freiburg im Breisgau,club,Germany,DEU
+2454,Borussia M'gladbach,Borussia VfL M\u00f6nchengladbach,M\u00f6nchengladbach,club,Germany,DEU
+2455,Hannover 96,Hannover 96,Hannover,club,Germany,DEU
+2457,Hertha BSC,Hertha BSC,Berlin,club,Germany,DEU
+2460,Mainz 05,1. FSV Mainz 05,Mainz,club,Germany,DEU
+2462,Eintracht Frankfurt,Eintracht Frankfurt,Frankfurt am Main,club,Germany,DEU
+2463,K\u00f6ln,1. FC K\u00f6ln,K\u00f6ln,club,Germany,DEU
+2481,Augsburg,FC Augsburg,Augsburg,club,Germany,DEU
+2482,Hoffenheim,TSG 1899 Hoffenheim,Sinsheim,club,Germany,DEU
+2975,RB Leipzig,Rasen Ballsport Leipzig,Leipzig,club,Germany,DEU
+3148,Germany,Germany,Frankfurt am Main,national,Germany,DEU
+3157,Milan,AC Milan,Milano,club,Italy,ITA
+3158,Roma,AS Roma,Roma,club,Italy,ITA
+3159,Juventus,Juventus FC,Torino,club,Italy,ITA
+3161,Internazionale,FC Internazionale Milano,Milano,club,Italy,ITA
+3162,Lazio,SS Lazio,Formello,club,Italy,ITA
+3163,Udinese,Udinese Calcio,Udine,club,Italy,ITA
+3164,Sampdoria,UC Sampdoria,Genova,club,Italy,ITA
+3165,Chievo,AC Chievo Verona,Verona,club,Italy,ITA
+3166,Bologna,Bologna FC 1909,Bologna,club,Italy,ITA
+3172,Atalanta,Atalanta Bergamasca Calcio,Ciserano,club,Italy,ITA
+3173,Cagliari,Cagliari Calcio,Cagliari,club,Italy,ITA
+3176,Fiorentina,ACF Fiorentina,Firenze,club,Italy,ITA
+3185,Torino,Torino FC,Torino,club,Italy,ITA
+3187,Napoli,SSC Napoli,Castel Volturno,club,Italy,ITA
+3193,Genoa,Genoa CFC,Genova,club,Italy,ITA
+3194,Hellas Verona,Hellas Verona FC,Verona,club,Italy,ITA
+3197,Crotone,FC Crotone,Crotone,club,Italy,ITA
+3204,SPAL,Societ\u00e0 Polisportiva Ars et Labor 2013,Ferrara,club,Italy,ITA
+3219,Benevento,Benevento Calcio,Benevento,club,Italy,ITA
+3315,Sassuolo,US Sassuolo Calcio,Sassuolo,club,Italy,ITA
+3757,Italy,Italy,Roma,national,Italy,ITA
+3766,Olympique Lyonnais,Olympique Lyonnais,Lyon,club,France,FRA
+3767,PSG,Paris Saint-Germain FC,Paris,club,France,FRA
+3770,Nantes,FC Nantes,La Chapelle-sur-Erdre,club,France,FRA
+3771,Olympique Marseille,Olympique de Marseille,Marseille,club,France,FRA
+3772,Bordeaux,FC Girondins de Bordeaux,Le Haillan,club,France,FRA
+3774,Rennes,Stade Rennais FC,Rennes,club,France,FRA
+3775,Nice,O.G.C. Nice C\u00f4te d'Azur,Nice,club,France,FRA
+3776,Lille,Lille OSC M\u00e9tropole,Villeneuve-d'Ascq,club,France,FRA
+3777,Metz,FC Metz,Metz,club,France,FRA
+3779,Strasbourg,RC Strasbourg Alsace,Strasbourg,club,France,FRA
+3780,Toulouse,Toulouse FC,Toulouse,club,France,FRA
+3782,Saint-\u00c9tienne,AS Saint-\u00c9tienne,Saint-\u00c9tienne,club,France,FRA
+3783,Caen,Stade Malherbe Caen,Caen,club,France,FRA
+3785,Guingamp,En Avant Guingamp,Guingamp,club,France,FRA
+3787,Montpellier,Montpellier HSC,Montpellier,club,France,FRA
+3789,Amiens SC,Amiens SC,Amiens,club,France,FRA
+3795,Troyes,Esp\u00e9rance Sportive Troyes Aube Champagne,Troyes,club,France,FRA
+3799,Angers,Angers SCO,Angers,club,France,FRA
+3804,Dijon,Dijon FCO,Dijon,club,France,FRA
