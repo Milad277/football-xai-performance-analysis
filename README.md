@@ -1,103 +1,174 @@
-# football-xai-performance-analysis
-Explainable AI pipeline for football analytics using Wyscout event data, SQLite, feature engineering, PPDA, xG, and interpretable machine learning models.
 # Football XAI Performance Analysis
 
-Explainable AI pipeline for football analytics using Wyscout event data, SQLite, feature engineering, PPDA, xG, and interpretable machine learning models.
+Explainable AI pipeline for football analytics using Wyscout soccer event data, SQLite, SQL-based feature engineering, tactical indicators, and interpretable machine learning models.
 
-## Overview
+## Project Overview
 
-This repository contains the code, documentation, and analytical workflow for the project **Explainable Artificial Intelligence in Sports Analytics**.
+This repository contains the code, documentation, notebooks, SQL queries, figures, and report for the project:
 
-The project focuses on applying explainable machine learning techniques to football event data in order to analyse team structure, tactical behaviour, and the importance of performance parameters.
+**Explainable Artificial Intelligence in Sports Analytics**
+
+The project focuses on applying Explainable Artificial Intelligence methods to football event data in order to analyze team structure, tactical behavior, and the importance of performance parameters.
+
+The main objective is not only to build predictive models, but also to identify interpretable tactical patterns that can support football performance analysis.
+
+## Dataset
+
+The project uses the Wyscout Soccer Match Event Dataset:
+
+**Dataset source:** https://github.com/koenvo/wyscout-soccer-match-event-dataset
+
+The dataset contains detailed soccer match event data, including passes, shots, duels, fouls, interceptions, and other on-ball actions.
+
+The raw data files are not included in this repository because of file size limitations. Users should download the dataset separately and place the JSON files inside:
+
+`data/raw/`
 
 ## Project Pipeline
 
-The complete workflow includes:
+The complete analytical workflow includes:
 
-1. Data acquisition from Wyscout open football event data
-2. JSON parsing and data cleaning
-3. Construction of a relational SQLite database
-4. SQL-based feature extraction
-5. Tactical feature engineering using PPDA and Expected Goals
-6. Zone-based spatial feature construction
-7. Machine learning model evaluation
-8. Explainable AI analysis using interpretable models
+1. Downloading the Wyscout soccer match event dataset
+2. Parsing raw JSON files
+3. Creating structured event and position tables
+4. Building a SQLite relational database
+5. Extracting match-level and team-level features using SQL
+6. Computing tactical indicators such as PPDA and Expected Goals
+7. Creating zone-based spatial features
+8. Preparing the final processed dataset
+9. Evaluating machine learning models
+10. Applying Explainable AI methods for interpretation
 
-## Key Concepts
+## Key Features
 
-- Football analytics
-- Sports performance analysis
-- Explainable Artificial Intelligence
-- Wyscout event data
-- SQLite database
-- Feature engineering
+The project includes several types of football analytics features:
+
+- Basic event counts
+- Passing features
+- Shooting features
+- Defensive actions
+- Assists
 - PPDA
 - Expected Goals
-- Zone-based tactical features
-- Interpretable machine learning
-- Rule-based learning
+- Zone-based pitch features
+- Home and away team statistics
+- Match result labels
+
+## Explainable AI Approach
+
+The project focuses on interpretable and explainable machine learning methods.
+
+The main Explainable AI objective is to understand which tactical and performance-related variables contribute to match outcomes.
+
+The analysis includes rule-based and interpretable modeling concepts, with particular attention to the Logic Learning Machine workflow used in the Rulex platform.
 
 ## Repository Structure
 
-```text
-football-xai-performance-analysis/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── report/
-│   └── Explainable-Artificial-Intelligence-in-Sports-Analytics.pdf
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── database/
-│   └── schema.sql
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_modeling.ipynb
-│   └── 04_results_analysis.ipynb
-│
-├── src/
-│   ├── data_parsing.py
-│   ├── database_builder.py
-│   ├── feature_engineering.py
-│   ├── tactical_metrics.py
-│   └── model_evaluation.py
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── extract_features.sql
-│   └── ppda_features.sql
-│
-└── figures/
-    ├── database_erd.png
-    ├── ppda_pitch.png
-    └── zone_based_pitch.png
-
-
-Methodology
-
-The project starts from raw football event data in JSON format and transforms it into a structured relational database. From this database, match-level and team-level features are extracted using SQL queries.
-
-The feature engineering process combines basic statistical indicators with football-specific tactical metrics such as PPDA, Expected Goals, and zone-based spatial features. These features are then used to train and evaluate machine learning models with a focus on interpretability.
-
-Explainable AI Approach
-
-The main objective of the project is not only to predict football match outcomes but also to understand which tactical and performance-related factors influence the model predictions.
-
-For this reason, the project focuses on interpretable machine learning and explainable AI techniques, allowing the results to be translated into meaningful football insights.
-
-Author
-
-Milad Aghaalikhani
+football-xai-performance-analysis/  
+├── README.md  
+├── LICENSE  
+├── .gitignore  
+├── requirements.txt  
+├── report/  
+│   └── Explainable-Artificial-Intelligence-in-Sports-Analytics.pdf  
+├── data/  
+│   ├── README.md  
+│   ├── raw/  
+│   └── processed/  
+│       └── sample_per_match_features.csv  
+├── database/  
+│   └── README.md  
+├── notebooks/  
+│   ├── README.md  
+│   ├── 01_data_exploration.ipynb  
+│   ├── 02_per_match_feature_engineering.ipynb  
+│   ├── 03_rulex_modeling_workflow.ipynb  
+│   └── 04_results_analysis.ipynb  
+├── src/  
+│   ├── README.md  
+│   ├── data_parsing.py  
+│   ├── database_builder.py  
+│   └── feature_engineering.py  
+├── sql/  
+│   ├── README.md  
+│   ├── create_tables.sql  
+│   └── final_features.sql  
+└── figures/  
+    ├── README.md  
+    ├── json_to_database_pipeline.png  
+    ├── database_erd.png  
+    ├── ppda_pitch_area.png  
+    ├── xg_shot_map.png  
+    └── zone_based_pitch.png  
 
 ## Report
 
-You can read the full project report here:
+The full academic report is available in the `report/` folder.
 
-[Download the full report](report/Explainable-Artificial-Intelligence-in-Sports-Analytics.pdf)
+[Read the full report](report/Explainable-Artificial-Intelligence-in-Sports-Analytics.pdf)
+
+## Sample Data
+
+The full processed dataset is not included because of file size limitations.
+
+A small sample file may be included for demonstration:
+
+`data/processed/sample_per_match_features.csv`
+
+To reproduce the full processed dataset, users should download the raw Wyscout dataset, place the JSON files in `data/raw/`, build the SQLite database, and run the SQL feature extraction pipeline.
+
+## Installation
+
+Install the required Python packages using:
+
+`pip install -r requirements.txt`
+
+## Usage
+
+### 1. Build the SQLite database
+
+`python src/database_builder.py`
+
+### 2. Run feature extraction
+
+`python src/feature_engineering.py`
+
+The generated processed dataset will be saved in:
+
+`data/processed/per_match_features.csv`
+
+## Figures
+
+The main project figures are stored in the `figures/` folder.
+
+They include:
+
+- JSON to database pipeline
+- SQLite database ERD
+- PPDA pitch area
+- Expected Goals shot map
+- Zone-based pitch division
+
+These figures help explain the project workflow, database structure, and tactical feature engineering process.
+
+## Main Technologies
+
+- Python
+- pandas
+- SQLite
+- SQL
+- Jupyter Notebook
+- Machine Learning
+- Explainable Artificial Intelligence
+- Football Analytics
+- Wyscout Event Data
+
+## Author
+
+**Milad Aghaalikhani**  
+Master's in Big Data Analytics & AI for Society  
+
+
+## License
+
+This project is released under the MIT License.
