@@ -92,3 +92,4 @@ CREATE TABLE IF NOT EXISTS bench (
     FOREIGN KEY (teamId) REFERENCES teams(teamId),
     FOREIGN KEY (playerId) REFERENCES players(playerId)
 );
+
