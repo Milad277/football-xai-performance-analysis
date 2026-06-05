@@ -1,6 +1,9 @@
+Python
 pandas
-numpy
-matplotlib
-scikit-learn
-sqlite3
-
+SQLite
+SQL
+Jupyter Notebook
+Machine Learning
+Explainable Artificial Intelligence
+Football Analytics
+Wyscout Event Data
