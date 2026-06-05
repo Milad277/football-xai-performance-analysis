@@ -1,4 +1,4 @@
-"}
+
 # Data
 
 This folder is used to organize the data for the football XAI performance analysis project.
