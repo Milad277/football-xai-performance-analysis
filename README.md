@@ -95,3 +95,9 @@ For this reason, the project focuses on interpretable machine learning and expla
 Author
 
 Milad Aghaalikhani
+
+## Report
+
+You can read the full project report here:
+
+[Download the full report](report/Explainable-Artificial-Intelligence-in-Sports-Analytics.pdf)
