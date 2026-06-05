@@ -1,8 +1,8 @@
 """
-Database builder module for the football analytics project.
+Database builder module for the football XAI performance analysis project.
 
-This script provides the initial structure for creating and connecting to
-a SQLite database that will store parsed football event data.
+This script creates a SQLite database using the schema defined in
+sql/create_tables.sql.
 """
 
 import sqlite3
@@ -24,32 +24,48 @@ def create_connection(database_path):
         SQLite database connection object.
     """
     database_path = Path(database_path)
-
-    # Create parent folder if it does not exist
     database_path.parent.mkdir(parents=True, exist_ok=True)
 
     connection = sqlite3.connect(database_path)
     return connection
 
 
-def close_connection(connection):
+def execute_sql_script(connection, sql_file_path):
     """
-    Close the SQLite database connection.
+    Execute a SQL script file.
 
     Parameters
     ----------
     connection : sqlite3.Connection
-        SQLite database connection object.
+        SQLite database connection.
+    sql_file_path : str
+        Path to the SQL script file.
     """
-    if connection:
+    sql_file_path = Path(sql_file_path)
+
+    if not sql_file_path.exists():
+        raise FileNotFoundError(f"SQL file not found: {sql_file_path}")
+
+    with open(sql_file_path, "r", encoding="utf-8") as file:
+        sql_script = file.read()
+
+    connection.executescript(sql_script)
+    connection.commit()
+
+
+def build_database(database_path="database/football_analytics.db",
+                   schema_path="sql/create_tables.sql"):
+    """
+    Build the SQLite database using the project schema.
+    """
+    connection = create_connection(database_path)
+
+    try:
+        execute_sql_script(connection, schema_path)
+        print(f"Database created successfully: {database_path}")
+    finally:
         connection.close()
 
 
 if __name__ == "__main__":
-    db_path = "database/football_analytics.db"
-
-    conn = create_connection(db_path)
-    print(f"Database connection created successfully: {db_path}")
-
-    close_connection(conn)
-    print("Database connection closed.")
+    build_database()
