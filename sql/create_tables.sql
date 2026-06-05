@@ -1,44 +1,94 @@
 -- Database schema for the football XAI performance analysis project
--- This schema is designed for football event data parsed from Wyscout JSON files.
+-- Designed based on the Wyscout event data structure and the project SQL pipeline.
 
 CREATE TABLE IF NOT EXISTS matches (
-    match_id INTEGER PRIMARY KEY,
-    competition_id INTEGER,
-    season_id INTEGER,
-    match_date TEXT,
-    home_team_id INTEGER,
-    away_team_id INTEGER,
-    home_score INTEGER,
-    away_score INTEGER
+    matchId INTEGER PRIMARY KEY,
+    competitionId INTEGER,
+    seasonId INTEGER,
+    gameweek INTEGER,
+    dateutc TEXT,
+    label TEXT,
+    winner INTEGER,
+    venue TEXT
 );
 
 CREATE TABLE IF NOT EXISTS teams (
-    team_id INTEGER PRIMARY KEY,
-    team_name TEXT,
-    competition_id INTEGER
+    teamId INTEGER PRIMARY KEY,
+    name TEXT,
+    officialName TEXT,
+    city TEXT,
+    type TEXT
 );
 
 CREATE TABLE IF NOT EXISTS players (
-    player_id INTEGER PRIMARY KEY,
-    player_name TEXT,
-    team_id INTEGER,
-    role TEXT
+    playerId INTEGER PRIMARY KEY,
+    firstName TEXT,
+    lastName TEXT,
+    shortName TEXT,
+    role TEXT,
+    birthDate TEXT,
+    foot TEXT,
+    height INTEGER,
+    weight INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS match_teams (
+    matchId INTEGER,
+    teamId INTEGER,
+    side TEXT,
+    score INTEGER,
+    PRIMARY KEY (matchId, teamId),
+    FOREIGN KEY (matchId) REFERENCES matches(matchId),
+    FOREIGN KEY (teamId) REFERENCES teams(teamId)
 );
 
 CREATE TABLE IF NOT EXISTS events (
-    event_id INTEGER PRIMARY KEY,
-    match_id INTEGER,
-    team_id INTEGER,
-    player_id INTEGER,
-    event_name TEXT,
-    sub_event_name TEXT,
+    eventId INTEGER PRIMARY KEY,
+    matchId INTEGER,
+    teamId INTEGER,
+    playerId INTEGER,
+    eventName TEXT,
+    subEventName TEXT,
     period TEXT,
-    event_time REAL,
-    start_x REAL,
-    start_y REAL,
-    end_x REAL,
-    end_y REAL,
-    FOREIGN KEY (match_id) REFERENCES matches(match_id),
-    FOREIGN KEY (team_id) REFERENCES teams(team_id),
-    FOREIGN KEY (player_id) REFERENCES players(player_id)
+    eventSec REAL,
+    FOREIGN KEY (matchId) REFERENCES matches(matchId),
+    FOREIGN KEY (teamId) REFERENCES teams(teamId),
+    FOREIGN KEY (playerId) REFERENCES players(playerId)
+);
+
+CREATE TABLE IF NOT EXISTS event_positions (
+    eventId INTEGER,
+    posOrder INTEGER,
+    x REAL,
+    y REAL,
+    PRIMARY KEY (eventId, posOrder),
+    FOREIGN KEY (eventId) REFERENCES events(eventId)
+);
+
+CREATE TABLE IF NOT EXISTS lineup (
+    matchId INTEGER,
+    teamId INTEGER,
+    playerId INTEGER,
+    goals INTEGER DEFAULT 0,
+    assists INTEGER DEFAULT 0,
+    ownGoals INTEGER DEFAULT 0,
+    yellowCards INTEGER DEFAULT 0,
+    redCards INTEGER DEFAULT 0,
+    FOREIGN KEY (matchId) REFERENCES matches(matchId),
+    FOREIGN KEY (teamId) REFERENCES teams(teamId),
+    FOREIGN KEY (playerId) REFERENCES players(playerId)
+);
+
+CREATE TABLE IF NOT EXISTS bench (
+    matchId INTEGER,
+    teamId INTEGER,
+    playerId INTEGER,
+    goals INTEGER DEFAULT 0,
+    assists INTEGER DEFAULT 0,
+    ownGoals INTEGER DEFAULT 0,
+    yellowCards INTEGER DEFAULT 0,
+    redCards INTEGER DEFAULT 0,
+    FOREIGN KEY (matchId) REFERENCES matches(matchId),
+    FOREIGN KEY (teamId) REFERENCES teams(teamId),
+    FOREIGN KEY (playerId) REFERENCES players(playerId)
 );
