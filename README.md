@@ -151,17 +151,25 @@ They include:
 
 These figures help explain the project workflow, database structure, and tactical feature engineering process.
 
-## Main Technologies
+## Tech Stack
 
-- Python
-- pandas
-- SQLite
-- SQL
-- Jupyter Notebook
-- Machine Learning
-- Explainable Artificial Intelligence
-- Football Analytics
-- Wyscout Event Data
+**Languages:** Python, SQL
+
+**ML & AI:** scikit-learn, XGBoost, Gradient Boosting, Explainable Boosting Machine, Logic Learning Machine, Interpretable Machine Learning
+
+**Data Processing:** pandas, NumPy, SQLite, Wyscout Soccer Match Event Dataset
+
+**Feature Engineering:** PPDA, Expected Goals, zone-based spatial features, match-level aggregation, home/away team statistics
+
+**Model Evaluation:** Accuracy, ROC-AUC, train/test comparison, overfitting analysis
+
+**Validation Strategy:** Sliding-window temporal validation, temporally consistent model evaluation
+
+**Explainability:** ROC-AUC feature ranking, interpretable rule extraction, human-readable IF-THEN rules
+
+**Visualization:** Matplotlib, Seaborn, football pitch visualizations
+
+**Reproducibility:** GitHub, Jupyter Notebook, SQL scripts, structured project documentation
 
 ## Results
 
