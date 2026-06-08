@@ -1,4 +1,7 @@
 # Football XAI Performance Analysis
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 Explainable AI pipeline for football analytics using Wyscout soccer event data, SQLite, SQL-based feature engineering, tactical indicators, and interpretable machine learning models.
 
