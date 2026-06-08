@@ -172,7 +172,7 @@ These figures help explain the project workflow, database structure, and tactica
 
 **Visualization:** Matplotlib, Seaborn, football pitch visualizations
 
-**Reproducibility:** GitHub, Jupyter Notebook, SQL scripts, structured project documentation
+**Reproducibility:** GitHub, Jupyter Notebook, Docker, MLflow (experiment tracking), SQL scripts, structured project documentation
 
 ## Results
 
