@@ -163,6 +163,22 @@ These figures help explain the project workflow, database structure, and tactica
 - Football Analytics
 - Wyscout Event Data
 
+## Results
+
+The models were evaluated using accuracy and ROC-AUC, with both training and test metrics reported to assess generalisation and overfitting.
+
+| Model | Test Accuracy | Test ROC-AUC | Notes |
+|---|---:|---:|---|
+| Decision Tree | 0.637 | 0.763 | Baseline interpretable model |
+| Random Forest | 0.864 | 0.962 | Best overall test performance |
+| XGBoost | 0.593 | 0.734 | Perfect training AUC but clear overfitting on test data |
+| Explainable Boosting Machine | 0.612 | 0.750 | Interpretable additive model |
+| Logic Learning Machine | 0.719 | 0.750 | Human-readable IF-THEN rules |
+
+Random Forest achieved the highest test ROC-AUC, showing strong generalisation on the evaluated dataset. XGBoost reached perfect training performance but dropped substantially on the test set, indicating overfitting under small-sample football data constraints.
+
+Among interpretable models, the Logic Learning Machine achieved competitive ROC-AUC while preserving full transparency through human-readable IF-THEN rules.
+
 ## Author
 
 **Milad Aghaalikhani**  
