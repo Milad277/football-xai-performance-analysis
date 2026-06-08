@@ -187,7 +187,7 @@ The models were evaluated using accuracy and ROC-AUC, with both training and tes
 | Logic Learning Machine | 0.719 | 0.750 | Human-readable IF-THEN rules |
 
 Random Forest achieved the highest test ROC-AUC, showing strong generalisation on the evaluated dataset. XGBoost reached perfect training performance but dropped substantially on the test set, indicating overfitting under small-sample football data constraints.
-
+> **Note:** In this academic pipeline, Random Forest achieved the best test ROC-AUC on the evaluated Wyscout-based dataset. XGBoost showed perfect training performance but lower test performance, suggesting overfitting under small-sample temporal validation. In the separate Rulex internship workflow, XGBoost was used as part of a different modelling setup and dataset context, where engineered feature selection and larger-scale data improved its practical performance.
 Among interpretable models, the Logic Learning Machine achieved competitive ROC-AUC while preserving full transparency through human-readable IF-THEN rules.
 
 ## Author
